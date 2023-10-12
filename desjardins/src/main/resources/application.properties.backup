@@ -1,0 +1,11 @@
+zeebe.client.cloud.clientId= 6zEz-fjNfaHexFJfokLjO08S.baS9I6H
+zeebe.client.cloud.clientSecret= Jao6BtgAOnkzD6_cWT0TA8Birc7d01oa0P1tNDdrRJw3L~tb6QyR4l1sEU0ThGK7
+zeebe.client.cloud.region= bru-2
+zeebe.client.worker.default-name= development
+zeebe.client.cloud.clusterId= a550135a-bfa6-4fd3-9a99-50645a5cb57a
+
+
+# Cloud Credentials
+# zeebe.client.cloud.clusterId=ecfdea92-2eae-467c-bcdd-4a28120d0d5a
+# zeebe.client.cloud.clientId=OwWI_Dn~f57LZTuuHpmpmgKBmp72b0v6
+# zeebe.client.cloud.clientSecret=eMc3GfBrneJkC_.vhbTWyfn393YBU8KLSfc_KK-L2YHtbgtcQ~NwlRaWK_youvFx
